@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJ1NHN3cmMzY3kyd290ZzNiaTg0OGcwYnJrNWV5dmFlZHV4Z256OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cU9Sbf5j5wN9k7DMQw/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/marcelo-silvestre-filho-a95834ab/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
