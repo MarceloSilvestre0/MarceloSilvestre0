@@ -1,3 +1,16 @@
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarceloSilvestre0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarceloSilvestre0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/marcelo-silvestre-filho-a95834ab/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -49,16 +62,3 @@
 ###
 
 <p align="left">Hello<br>I'm Marcelo Silvestre Filho. Welcome to my profile!<br><br>🔭 Professional: Professional: I am a Key User of a WMS system, responsible for implementing new technologies in the Logistics Engineering department of the company where I work.<br><br>📚 Education and Growth: I have a degree in Mechatronics Engineering and am currently pursuing a specialization in Data Science. I'm always looking to deepen my knowledge in technologies that add value to engineering and manufacturing, with the goal of becoming a top expert in digital transformation.<br><br>⚡ Personal Interests: In my free time, I enjoy playing games, from board games to the T-Rex Game. My love for video games goes way back to my childhood. I'm also passionate about Asian culture, especially its philosophies and cuisine, which led me to study Japanese for five years.<br><br>🍳 Cooking: I love cooking for my family and friends. It's an activity that requires my full attention to detail — and it's also a fun way for me to focus completely on what I'm doing (without losing a fingertip! 😅).<br><br>💬 Quality Time: I enjoy swimming with my wife, watching movies, series, and anime together, and having conversations about our future plans and dreams.</p>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarceloSilvestre0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarceloSilvestre0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
